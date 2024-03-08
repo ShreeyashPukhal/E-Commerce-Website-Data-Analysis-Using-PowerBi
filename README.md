@@ -1,1 +1,2 @@
 # E-Commerce-Website-Data-Analysis-Using-PowerBi
+In my data analysis project, I utilized data from an e-commerce website, employing Power BI for insightful visualization. The dashboards succinctly present maximum and minimum sales, year-wise KPIs, and region-specific insights. A graphical representation emphasizes the annual sum sales, providing a comprehensive overview of the e-commerce platform's performance.
